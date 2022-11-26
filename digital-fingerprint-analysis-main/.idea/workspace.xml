@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3525b280-3686-4a5c-b4b7-3136c66aa8e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test/main1_simu_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/starter1.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/starter1.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/blur_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main3_simulation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main3_simu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/starter1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/starter1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main1_test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main3_restauration_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/main3_rest_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main3_simulation_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/main3_simu_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/starter1_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/starter1_test.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23jqBGkXC3pNwUI2AMi8ArX8pTR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="PLAIN_TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/include" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3525b280-3686-4a5c-b4b7-3136c66aa8e6" name="Changes" comment="" />
+      <created>1642257708709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642257708709</updated>
+      <workItem from="1642257710009" duration="5495000" />
+      <workItem from="1643118439389" duration="416000" />
+      <workItem from="1643124051202" duration="8463000" />
+      <workItem from="1643305272144" duration="3000" />
+      <workItem from="1644671978824" duration="5090000" />
+      <workItem from="1644918815169" duration="706000" />
+      <workItem from="1644920262130" duration="1352000" />
+      <workItem from="1645001308701" duration="15531000" />
+      <workItem from="1645536313785" duration="7676000" />
+      <workItem from="1645552997571" duration="94000" />
+      <workItem from="1645553349212" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
